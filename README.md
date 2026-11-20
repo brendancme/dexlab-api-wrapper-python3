@@ -21,7 +21,7 @@ If useful, buy me a coffee?
 
 ## Installation
 
-    $ git clone https://github.com/LeeChunHao2000/dexlab-api-wrapper-python3
+    $ git clone https://github.com/brendancme/dexlab-api-wrapper-python3
 
  - This wrapper requires [requests](https://github.com/psf/requests)
 
@@ -34,7 +34,7 @@ And then:
     client = Client('')
 
 ## Contributors
-- [Brendan C. Lee](https://github.com/LeeChunHao2000/)
+- [Brendan C. Lee](https://github.com/brendancme/)
 - Chinyu
 
 ### Version Logs
